@@ -93,7 +93,7 @@ function ApprovalByPropertyChart({ data }) {
 
     const tooltip = d3.select(tooltipRef.current);
 
-    const bars = chart
+    chart
       .selectAll('.area-bar')
       .data(aggregated)
       .join('rect')
