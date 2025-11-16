@@ -81,7 +81,9 @@ This creates an optimized production build in the `build` folder.
 
 ## Deployment
 
-The application is deployed on GitHub Pages. The GitHub Pages URL will be added here once deployment is complete.
+The application is deployed on GitHub Pages.
+
+**Live URL:** https://mduddin112203.github.io/CS450Project/
 
 ## Project Structure
 
